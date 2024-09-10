@@ -2,13 +2,7 @@
 
 Quick **[docsify](https://docsify.js.org/)** starter template
 
-## 📦 Installation
-
-Init `.docs` project
-
-```bash
-npx docsify init .docs
-```
+## 🚀 Serve Docs
 
 Start `.docs` project
 

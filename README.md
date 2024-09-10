@@ -1,6 +1,6 @@
 # docsify-starter
 
-Quick **[docsify](https://docsify.js.org/)** starter template
+Quick **[docsify](https://docsify.js.org/)** starter template.
 
 ## 🚀 Serve Docs
 
@@ -10,4 +10,4 @@ Start `.docs` project
 npx docsify serve .docs
 ```
 
-To configure and setup docsify see [index.html](./.docs/index.html#L20) file.
+To configure docsify see [index.html](./.docs/index.html#L20) file.

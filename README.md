@@ -4,10 +4,10 @@ Quick **[docsify](https://docsify.js.org/)** starter template.
 
 ## 🚀 Serve Docs
 
-Start `.docs` project
+Start `docs` project
 
 ```bash
-npx docsify serve .docs
+npx docsify serve docs
 ```
 
-To configure docsify see [index.html](./.docs/index.html#L20) file.
+To configure docsify see [index.html](./docs/index.html#L20) file.

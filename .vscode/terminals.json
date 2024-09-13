@@ -9,8 +9,8 @@
       "focus": true,
       "execute": true,
       "recycle": true,
-      "commands": ["npx docsify serve docs"],
-      "color": "terminal.ansiRed"
+      "commands": ["npx docsify serve docs --port 1000"],
+      "color": "terminal.ansiGreen"
     }
   ]
 }

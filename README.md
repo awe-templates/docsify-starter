@@ -15,7 +15,7 @@ npm i docsify-cli -g
 Start `docs` project
 
 ```bash
-npx docsify serve docs
+npx docsify serve docs --port 1000
 ```
 
 To configure docsify see [index.html](./docs/index.html#L20) file.

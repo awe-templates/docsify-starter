@@ -2,6 +2,14 @@
 
 Quick **[docsify](https://docsify.js.org/)** starter template.
 
+## 📦 Installation
+
+First install docsify CLI
+
+```bash
+npm i docsify-cli -g
+```
+
 ## 🚀 Serve Docs
 
 Start `docs` project

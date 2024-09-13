@@ -1,2 +1,2 @@
 * [home](/)
-* [quick-start](quick-start.md)
+* [quick-start](pages/quick-start.md)

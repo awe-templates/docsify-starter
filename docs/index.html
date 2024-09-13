@@ -50,7 +50,21 @@
           crossChapter: true,
           crossChapterText: true,
         },
+
+        plugins: [
+          titlePlugin({
+            suffix: " | Awesome Templates",
+          }),
+        ],
       };
+
+      function titlePlugin(config) {
+        return (hook, vm) => {
+          hook.doneEach((content) => {
+            document.title += config.suffix;
+          });
+        };
+      }
     </script>
 
     <!-- Docsify -->

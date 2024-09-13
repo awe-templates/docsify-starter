@@ -1,6 +1,6 @@
-# name-of-package
+# Quick Start
 
-- [name-of-package](#name-of-package)
+- [Quick Start](#quick-start)
   - [📦 Installation](#-installation)
   - [🚀 Usage](#-usage)
   - [📚 Learn More](#-learn-more)

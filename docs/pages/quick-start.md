@@ -1,6 +1,6 @@
-# Quick Start
+# ⚡ Quick Start
 
-- [Quick Start](#quick-start)
+- [⚡ Quick Start](#-quick-start)
   - [📦 Installation](#-installation)
   - [🚀 Usage](#-usage)
   - [📚 Learn More](#-learn-more)

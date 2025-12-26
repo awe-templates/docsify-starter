@@ -2,6 +2,9 @@
 
 Quick **[docsify](https://docsify.js.org/)** starter template.
 
+> [!IMPORTANT]
+> This starter template outdated. Use **[vitepress-starter](https://github.com/awe-templates/vitepress-starter)** instead.
+
 ## 📦 Installation
 
 First install docsify CLI.

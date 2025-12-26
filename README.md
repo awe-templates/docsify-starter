@@ -2,7 +2,7 @@
 
 Quick **[docsify](https://docsify.js.org/)** starter template.
 
-> [!IMPORTANT]
+> [!WARNING]
 > This starter template outdated. Use **[vitepress-starter](https://github.com/awe-templates/vitepress-starter)** instead.
 
 ## 📦 Installation
